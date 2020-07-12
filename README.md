@@ -3,7 +3,7 @@
 - 🔭 I’m on fourth year of Computer Engineering
 - 🌱 I’m currently learning anything tech
 - 💬 Ask me about technology, music, networks, infosec, economy & current affairs
-- 📫 How to reach me: rme (AT) rme.li or Twitter
+- 📫 How to reach me: ![rme AT rme DOT li](https://user-images.githubusercontent.com/6007737/87257278-13896300-c49a-11ea-96c6-789f150f9144.png) or Twitter
 
 <table><tr><td valign="top">
   
