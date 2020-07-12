@@ -7,10 +7,10 @@
 
 <table><tr><td valign="top">
   
-[![image](https://user-images.githubusercontent.com/6007737/87256809-0d918300-c496-11ea-83d1-352f4e14b5b3.png)](https://twitter.com/rme)
+[![Twitter @RME](https://user-images.githubusercontent.com/6007737/87256809-0d918300-c496-11ea-83d1-352f4e14b5b3.png)](https://twitter.com/rme)
 
 </td><td valign="top">
   
-[![image](https://user-images.githubusercontent.com/6007737/87256813-12563700-c496-11ea-81fe-153a4da857d0.png)](https://rme.li)
+[![Website RME.li](https://user-images.githubusercontent.com/6007737/87257058-fc497600-c497-11ea-8d48-6c357b2ffe2b.png)](https://rme.li)
 
 </td></tr></table>
