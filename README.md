@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-- 🔭 Computer Engineer
+- 🔭 Software Engineer
 - 🌱 I’m currently learning anything tech
 - 💬 Ask me about technology, music, networks, infosec, economy & current affairs
 - 📫 Reach me: [![rme AT rme DOT li](https://user-images.githubusercontent.com/6007737/87257278-13896300-c49a-11ea-96c6-789f150f9144.png)](https://rme.li/contacto/) or Twitter
